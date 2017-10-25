@@ -24,6 +24,7 @@ app.listen(port, function(error){
       console.log(error);
   }
   else{
+	  console.log(chalk.blue('Server stated up.........................'));
       open('http://localhost:'+port);
   }
 });
