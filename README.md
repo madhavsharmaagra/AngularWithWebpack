@@ -8,6 +8,29 @@ This repo is completely for Learning purpose.
 
 These instructions will get you a copy of the project up and running on your local machine.
 
+### Prerequisite
+
+You should be having node and npm installed on your machine.
+
+To check for node please run,
+```
+node -v
+```
+You will see something like,
+```
+v8.1.2
+```
+and, for npm please run,
+```
+npm -v
+```
+You will see something like,
+```
+5.4.2
+```
+
+If you do not have, node installed on your machine, please go to node office site to download it.
+
 ### Installing
 
 ```
